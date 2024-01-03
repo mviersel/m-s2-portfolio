@@ -53,30 +53,30 @@
 }
 
 .image-band {
-    background-image: url(images/RockBand.jpg);
+    background-image: url(../images/RockBand.jpg);
     background-position: center;
 }
 
 .image-mercedes{
-    background-image: url(images/SaveForWebMercedesBenzTrucks.png);
+    background-image: url(../images/SaveForWebMercedesBenzTrucks.png);
     background-position: center;
 }
 
 .image-x {
-    background-image: url(images/ProjectX.jpg);
+    background-image: url(../images/ProjectX.jpg);
 }
 
 .image-speeltuin {
-    background-image: url(images/Speeltuin.jpg);
+    background-image: url(../images/Speeltuin.jpg);
 }
 
 .image-development {
-    background-image: url(images/Development.jpg);
+    background-image: url(../images/Development.jpg);
     background-position: center;
 }
 
 .image-meer {
-    background-image: url(images/Meer.jpg);
+    background-image: url(../images/Meer.jpg);
     background-position: center;
 }
 
