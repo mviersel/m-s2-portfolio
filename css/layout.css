@@ -1,0 +1,82 @@
+h1 {
+    color: var(--primary);
+    padding-top: 15px;
+    padding-left: 20px;
+}
+
+p {
+    padding: 20px;
+}
+
+h3 {
+    padding-top: 15px;
+    padding-left: 20px;
+    font-weight: normal;
+    color: var(--primary);
+}
+
+.layout-button-div {
+    display: flex;
+    justify-content: center;
+}
+
+.layout-overview a {
+    color: var(--primary);
+}
+
+hr.rounded {
+    border: 1px solid var(--menubar);
+    margin: 5px 15px 0px 15px;
+}
+
+.layout-hero {
+    height: 400px;
+}
+
+.layout-hero img {
+    height: 400px;
+    width: 100%;
+    object-fit: cover;
+    overflow: hidden;
+}
+
+.layout-1 {
+    background-color: var(--black);
+    /* border-radius: 15px 15px 0px 0px; */
+}
+
+.speeltuin-button {
+    display: block;
+    border: solid 3px var(--primary);
+    background-color: var(--black);
+    display: flex;
+    justify-content: center;
+}
+
+/* .a-as-button {
+    
+} */
+
+/* .layout-1 .button-div {
+    border: solid 3px var(--primary);
+    background-color: var(--black);
+    padding: 1vh 5vw;
+    color: var(--primary);
+    border-radius: 10px;
+    margin-bottom: 5vh;
+}
+
+.layout-1 button:hover{
+    background-color: var(--primary);
+    border: solid 3px var(--black);
+    color: var(--black);
+} */
+
+.layout-2 {
+    background-color: var(--bg-secondary);
+    /* border-radius: 15px 15px 0px 0px; */
+}
+
+.layout-3 {
+    height: 45vh;
+}
