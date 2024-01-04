@@ -1,6 +1,16 @@
 .test-hero {
     background-color: black;
-    height: 30svh;
+    height: auto;
+    position: relative;
+    z-index: -1;
+}
+
+.test-hero-image {
+    /* width: auto; */
+}
+
+.test-hero-image img {
+    width: 100%;
 }
 
 .test-body {
@@ -55,3 +65,13 @@
     align-items: center;
 }
 
+.test-single-image {
+    width: auto;
+    padding-inline: 1rem;
+    padding-bottom: 1rem;
+}
+
+.test-single-image img {
+    width: 100%;
+    border-radius: 15px;
+}
