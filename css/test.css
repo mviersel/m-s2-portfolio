@@ -1,0 +1,57 @@
+.test-hero {
+    background-color: black;
+    height: 30svh;
+}
+
+.test-body {
+    background-color: lightblue;
+    height: auto;
+    border-radius: 15px 15px 0px 0px;
+    margin-top: -15px;
+    color: black;
+}
+
+.test-body h1 {
+    padding-left: 2rem;
+    padding-top: 2rem;
+    padding-bottom: 1rem;
+}
+
+.test-body hr {
+    border: solid black 1px;
+    margin-inline: 1rem;
+}
+
+.test-body p {
+    padding: 2rem;
+}
+
+.test-body a {
+    padding-top: 1rem;
+    color: aliceblue;
+}
+
+.test-body a:hover {
+    color: aquamarine;
+}
+
+.test-double-images {
+    width: auto;
+    height: auto;
+    display: flex;
+    gap: 10px;
+    padding-inline: 1rem;
+    padding-bottom: 1rem;
+}
+
+.test-double-images img {
+    width: 100%;
+    border-radius: 15px;
+}
+
+.test-image-flex {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
