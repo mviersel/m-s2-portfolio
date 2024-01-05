@@ -44,6 +44,8 @@
     display: flex;
     justify-content: center;
     align-items: center;
+
+    background-position: center;
 }
 
 .overview-text {
@@ -54,12 +56,10 @@
 
 .image-band {
     background-image: url(../images/RockBand.jpg);
-    background-position: center;
 }
 
-.image-mercedes{
+.image-mercedes {
     background-image: url(../images/SaveForWebMercedesBenzTrucks.png);
-    background-position: center;
 }
 
 .image-x {
@@ -72,11 +72,8 @@
 
 .image-development {
     background-image: url(../images/Development.jpg);
-    background-position: center;
 }
 
 .image-meer {
     background-image: url(../images/Meer.jpg);
-    background-position: center;
 }
-
