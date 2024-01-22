@@ -1,0 +1,9 @@
+.video-frame {
+    width: auto;
+    margin-inline: 1rem;
+}
+
+.video-frame video {
+    height: auto;
+    width: 100%;
+}
